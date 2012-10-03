@@ -1,4 +1,4 @@
-﻿/*
+/*
  * This file is part of BifrostUI.
  *
  * Copyright (c) 2011-2012, CraftFire <http://www.craftfire.com/>
